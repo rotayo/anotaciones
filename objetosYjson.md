@@ -30,7 +30,7 @@ function Persona(nombre, edad, ciudad) {
 let persona1 = new Persona("Juan", 30, "Madrid");
 ```
 
-### 🔹 Usando Clases (ES6+)
+### 🔹 Usando Clases (EcmaScript6+)
 ```javascript
 class Persona {
     constructor(nombre, edad, ciudad) {
